@@ -1,0 +1,23 @@
+{
+  "name": "craise",
+  "version": "1.0.0",
+  "description": "Creative Fundraising Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pnemrow/craise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pnemrow/craise/issues"
+  },
+  "homepage": "https://github.com/pnemrow/craise#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
