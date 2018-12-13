@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/pnemrow/craise#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "config": "^3.0.0",
+    "debug": "^4.1.0",
+    "express": "^4.16.4",
+    "helmet": "^3.15.0",
+    "joi": "^14.3.0",
+    "morgan": "^1.9.1"
   }
 }

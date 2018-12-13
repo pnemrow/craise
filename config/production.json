@@ -1,0 +1,6 @@
+{
+    "name": "Craise App - Production",
+    "mail": {
+        "host": "prod-mail-server"
+    }
+}
